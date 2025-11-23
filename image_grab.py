@@ -8,7 +8,7 @@ from scipy.ndimage import gaussian_filter
 from scipy.ndimage import convolve
 import cv2 as cv
 
-video_path = 'images/IMG_1648.mov'
+video_path = 'images/IMG_1812.mov'
 reader = imageio.get_reader(video_path, 'ffmpeg')
 
 frames = []
