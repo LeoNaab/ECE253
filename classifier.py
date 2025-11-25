@@ -19,7 +19,7 @@ def image_loader(image_name):
     image = Image.open(image_name).convert("RGB")
     return image
 
-image_file =  "image_results/post_vulture.png"#"outputs/bananaModified.png"#
+image_file =  "image_results/pre_vulture.png"#"outputs/bananaModified.png"#
 image = image_loader(image_file)
 
 
