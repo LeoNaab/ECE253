@@ -1,0 +1,3136 @@
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\ballpoint_pen_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.4762
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\ballpoint_pen_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.4650
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\ballpoint_pen_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.1772
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4404
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.6943
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3437
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.5162
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\ballpoint_pen_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9094
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\ballpoint_pen_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **modem**
+Probability: 0.1883
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\ballpoint_pen_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **modem**
+Probability: 0.1676
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.2325
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9348
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.1652
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8145
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\ballpoint_pen_3_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8208
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\ballpoint_pen_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8208
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\ballpoint_pen_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.9136
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\ballpoint_pen_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **caldron**
+Probability: 0.0560
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.7390
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.3694
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.6841
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.5944
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\ballpoint_pen_3_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.9136
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\ballpoint_pen_3_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **caldron**
+Probability: 0.0560
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_3_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.7390
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_3_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.3694
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\ballpoint_pen_3_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.6841
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\ballpoint_pen_3_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.5944
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\banana_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.7258
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\banana_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.7258
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\banana_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0622
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\banana_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.3063
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4253
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.1931
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3380
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.3814
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\banana_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0622
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\banana_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.3063
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4253
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.1931
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3380
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.3814
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\banana_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8129
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\banana_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bathtub**
+Probability: 0.0625
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\banana_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0936
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.8643
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.9791
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.9568
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.9466
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\banana_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9069
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\banana_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1614
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\banana_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.7374
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1644
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banana**
+Probability: 0.3559
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\banana_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1751
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\banana_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.2231
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\bowl_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3778
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\bowl_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3778
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\bowl_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.1236
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\bowl_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **potter's wheel**
+Probability: 0.1934
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.3720
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4255
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.3045
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.7354
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\bowl_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.1236
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\bowl_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **potter's wheel**
+Probability: 0.1934
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.3720
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4255
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.3045
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.7354
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\bowl_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.6868
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\bowl_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.0620
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\bowl_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0200
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.6314
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.4390
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\bowl_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.5572
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\bowl_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.5451
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\cup_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9041
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\cup_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1712
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\cup_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cocktail shaker**
+Probability: 0.2326
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2143
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2344
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3875
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4370
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\cup_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9407
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\cup_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.4933
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\cup_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **perfume**
+Probability: 0.1381
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3412
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.1604
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5038
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3226
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\cup_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.8860
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\cup_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.7602
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\cup_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.2169
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5862
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4665
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6136
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.7059
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\cup_4.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.7169
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\cup_4.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.1647
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\cup_4.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.1442
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.3505
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.3789
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.2868
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.4433
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\cup_5.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.7434
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\cup_5.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.1903
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\cup_5.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.1927
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_5.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.3567
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_5.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.2494
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\cup_5.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.2021
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\cup_5.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.3783
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\fountain_pen_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.6125
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\fountain_pen_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.4059
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\fountain_pen_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2956
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\fountain_pen_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8681
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\fountain_pen_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8982
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\fountain_pen_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9771
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\fountain_pen_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8353
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\fountain_pen_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9766
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\fountain_pen_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.0609
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\fountain_pen_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0643
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\fountain_pen_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.5064
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\fountain_pen_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.1543
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\fountain_pen_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.3243
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\fountain_pen_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2827
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\guitar_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goose**
+Probability: 0.0867
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\guitar_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **chain saw**
+Probability: 0.0610
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\guitar_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **scorpion**
+Probability: 0.0885
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\guitar_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **eft**
+Probability: 0.0981
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\guitar_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **candle**
+Probability: 0.2765
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\guitar_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **eft**
+Probability: 0.0879
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\guitar_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **candle**
+Probability: 0.1766
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\kitchen_towel_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6728
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\kitchen_towel_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **banded gecko**
+Probability: 0.0853
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\kitchen_towel_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hognose snake**
+Probability: 0.3268
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\kitchen_towel_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **snow leopard**
+Probability: 0.2314
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\kitchen_towel_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5755
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\kitchen_towel_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **snow leopard**
+Probability: 0.2443
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\kitchen_towel_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6254
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\kitchen_towel_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3973
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\kitchen_towel_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.1108
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\kitchen_towel_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.0360
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\kitchen_towel_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hognose snake**
+Probability: 0.1800
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\kitchen_towel_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **handkerchief**
+Probability: 0.0935
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\kitchen_towel_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **pencil box**
+Probability: 0.1004
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\kitchen_towel_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **handkerchief**
+Probability: 0.1853
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\mouse_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4226
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\mouse_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **iPod**
+Probability: 0.8288
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\mouse_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **iron**
+Probability: 0.4141
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\mouse_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.4325
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\mouse_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2666
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\mouse_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.6906
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\mouse_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2511
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\mouse_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6145
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\mouse_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **iPod**
+Probability: 0.0718
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\mouse_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9491
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\mouse_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2917
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\mouse_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.3911
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\mouse_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3873
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\mouse_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.4112
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\paper_towel_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.6124
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\paper_towel_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.6124
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\paper_towel_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rubber eraser**
+Probability: 0.3190
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\paper_towel_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.1088
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.5776
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1490
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.6354
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.1953
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\paper_towel_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rubber eraser**
+Probability: 0.3190
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\paper_towel_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.1088
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **spatula**
+Probability: 0.0780
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1490
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **spatula**
+Probability: 0.0707
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.1953
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\paper_towel_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.5560
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\paper_towel_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1300
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\paper_towel_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.1120
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.3933
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1761
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.6007
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1115
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\paper_towel_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4880
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\paper_towel_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1122
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\paper_towel_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1093
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **Band Aid**
+Probability: 0.2637
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.1178
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\paper_towel_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.2939
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\paper_towel_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **sunscreen**
+Probability: 0.3532
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\pillow_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2648
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\pillow_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2648
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\pillow_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **Windsor tie**
+Probability: 0.0322
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\pillow_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **wine bottle**
+Probability: 0.0705
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\pillow_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2080
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\pillow_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.9589
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\pillow_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2096
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\pillow_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.0690
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\pillow_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **Windsor tie**
+Probability: 0.0322
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\pillow_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **wine bottle**
+Probability: 0.0705
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\pillow_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2080
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\pillow_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **brassiere**
+Probability: 0.1340
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\pillow_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bow tie**
+Probability: 0.2096
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\pillow_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **dumbbell**
+Probability: 0.4263
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\plastic_bag_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.5086
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\plastic_bag_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **plastic bag**
+Probability: 0.9398
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\plastic_bag_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **plastic bag**
+Probability: 0.3494
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **plastic bag**
+Probability: 0.4088
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.7107
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3446
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.6115
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\plastic_bag_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9934
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\plastic_bag_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **plastic bag**
+Probability: 0.2235
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\plastic_bag_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.5702
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.8687
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.6199
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6092
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.4488
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\plastic_bag_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8226
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\plastic_bag_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **plastic bag**
+Probability: 0.0368
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\plastic_bag_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.4208
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **envelope**
+Probability: 0.3073
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cup**
+Probability: 0.0798
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plastic_bag_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **handkerchief**
+Probability: 0.4059
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plastic_bag_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.4641
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\plate_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5855
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\plate_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1824
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\plate_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **potter's wheel**
+Probability: 0.1315
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plate_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **frying pan**
+Probability: 0.1775
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plate_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.3780
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plate_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **frying pan**
+Probability: 0.2012
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plate_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.2824
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\plate_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.7322
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\plate_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **CD player**
+Probability: 0.3768
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\plate_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **frying pan**
+Probability: 0.2323
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plate_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **puck**
+Probability: 0.2520
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plate_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3211
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\plate_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2917
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\plate_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.4626
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\remote_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.3222
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\remote_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.3222
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\remote_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **electric guitar**
+Probability: 0.2731
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\remote_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.1060
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\remote_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.7178
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\remote_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **airship**
+Probability: 0.2502
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\remote_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.7771
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\remote_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **syringe**
+Probability: 0.4251
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\remote_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **electric guitar**
+Probability: 0.2731
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\remote_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.1060
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\remote_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.7178
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\remote_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lampshade**
+Probability: 0.1643
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\remote_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **remote control**
+Probability: 0.7771
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\remote_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window shade**
+Probability: 0.1161
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screwdriver_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5716
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screwdriver_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5716
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screwdriver_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.4564
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screwdriver_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.1234
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.5544
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.3879
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.8203
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.4179
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screwdriver_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **photocopier**
+Probability: 0.4564
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screwdriver_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.1234
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.5544
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.3879
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.8203
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.4179
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screwdriver_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9841
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screwdriver_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **rule**
+Probability: 0.1667
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screwdriver_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.0169
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.2131
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bathtub**
+Probability: 0.1431
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.1768
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1110
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screwdriver_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.5037
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screwdriver_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **modem**
+Probability: 0.1699
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screwdriver_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1621
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9307
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.5193
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screwdriver_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9730
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screwdriver_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3657
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.0923
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1930
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **car mirror**
+Probability: 0.0451
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1032
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **strainer**
+Probability: 0.2074
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.1075
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.1583
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hamper**
+Probability: 0.3631
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **space heater**
+Probability: 0.3437
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **hourglass**
+Probability: 0.0997
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **space heater**
+Probability: 0.1977
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **strainer**
+Probability: 0.4752
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **space heater**
+Probability: 0.2222
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **strainer**
+Probability: 0.2834
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9163
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.7773
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.7822
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4728
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.3943
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.4296
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5986
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_4.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9685
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_4.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9075
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_4.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9411
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9201
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.6843
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.9320
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.7837
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_5.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.8780
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_5.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2094
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_5.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.0868
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_5.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3251
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_5.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3316
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_5.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3597
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_5.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4813
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\screws_6.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.5056
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\screws_6.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.0293
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\screws_6.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.8975
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_6.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bathtub**
+Probability: 0.1446
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_6.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.2437
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\screws_6.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.1718
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\screws_6.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2468
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\soap_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **whiskey jug**
+Probability: 0.4000
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\soap_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **whiskey jug**
+Probability: 0.4000
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\soap_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.5429
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\soap_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2758
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.3499
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **candle**
+Probability: 0.1219
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **soap dispenser**
+Probability: 0.4266
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.2945
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\soap_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.5429
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\soap_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2758
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.3499
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **candle**
+Probability: 0.1219
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **soap dispenser**
+Probability: 0.4266
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.2945
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\soap_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9615
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\soap_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.3917
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\soap_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.0713
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.5328
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **soap dispenser**
+Probability: 0.5242
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\soap_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.6152
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\soap_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **soap dispenser**
+Probability: 0.7648
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\spatula_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.9218
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\spatula_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.9218
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\spatula_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.0715
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\spatula_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.0687
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.2451
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.5145
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.2146
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.6033
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\spatula_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ballpoint**
+Probability: 0.0715
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\spatula_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.0687
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **paper towel**
+Probability: 0.2451
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.5145
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.2146
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.6033
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\spatula_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9674
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\spatula_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **upright**
+Probability: 0.2124
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\spatula_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1017
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **syringe**
+Probability: 0.0682
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2193
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.0470
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **tray**
+Probability: 0.0762
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\spatula_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **fire screen**
+Probability: 0.8008
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\spatula_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **spatula**
+Probability: 0.0845
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\spatula_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **ladle**
+Probability: 0.2013
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.1760
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2344
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **window screen**
+Probability: 0.2321
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.3993
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\spatula_4.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9176
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\spatula_4.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **upright**
+Probability: 0.0326
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\spatula_4.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1782
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **letter opener**
+Probability: 0.1826
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_4.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **candle**
+Probability: 0.0906
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\spatula_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **screwdriver**
+Probability: 0.1235
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\spatula_4.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **mosquito net**
+Probability: 0.1448
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\syringe_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9274
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\syringe_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9274
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\syringe_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1860
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\syringe_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.0855
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2320
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2810
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2247
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3998
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\syringe_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1860
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\syringe_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.0855
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2320
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2810
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.2247
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3998
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\syringe_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.8649
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\syringe_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **upright**
+Probability: 0.1120
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\syringe_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.2732
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.2080
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.3126
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\syringe_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **handkerchief**
+Probability: 0.1148
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\syringe_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **washbasin**
+Probability: 0.4359
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\toilet_paper_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.9872
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\toilet_paper_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.1108
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\toilet_paper_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.0898
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\toilet_paper_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cowboy hat**
+Probability: 0.5158
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\toilet_paper_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cowboy hat**
+Probability: 0.4975
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\toilet_paper_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **cowboy hat**
+Probability: 0.5526
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\toilet_paper_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.1663
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\toilet_paper_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.5905
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\toilet_paper_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3590
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\toilet_paper_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.2798
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\toilet_paper_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **sunscreen**
+Probability: 0.5300
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\toilet_paper_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.6850
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\toilet_paper_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **sunscreen**
+Probability: 0.3188
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\toilet_paper_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **lotion**
+Probability: 0.5968
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\water_bottle_1_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4121
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\water_bottle_1.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.4121
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\water_bottle_1.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.6557
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\water_bottle_1.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.7431
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.7877
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_1.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.6198
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.7815
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_1.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2800
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\water_bottle_1_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.6557
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\water_bottle_1_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.7431
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.7877
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_1_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.6198
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.7815
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_1_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **beaker**
+Probability: 0.2800
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\water_bottle_2.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **microwave**
+Probability: 0.3046
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\water_bottle_2.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.1695
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\water_bottle_2.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nematode**
+Probability: 0.1812
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.6783
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_2.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **nipple**
+Probability: 0.5034
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.6576
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_2.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.5863
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\water_bottle_3_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.9367
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\01_photos_scaled\water_bottle_3.jpg_scaled.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.9367
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\water_bottle_3.jpg_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **affenpinscher**
+Probability: 0.2441
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\water_bottle_3.jpg_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goldfish**
+Probability: 0.0320
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bubble**
+Probability: 0.1906
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_3.jpg_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **pinwheel**
+Probability: 0.3546
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bubble**
+Probability: 0.2101
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_3.jpg_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **perfume**
+Probability: 0.1209
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_gs\water_bottle_3_blur_gaussian.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **affenpinscher**
+Probability: 0.2441
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_blurred_med\water_bottle_3_blur_med.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goldfish**
+Probability: 0.0320
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_3_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bubble**
+Probability: 0.1906
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_3_inpainted_fmm.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **goblet**
+Probability: 0.2738
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_ad\water_bottle_3_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **bubble**
+Probability: 0.2101
+---------------------------------------------
+
+---------------------------------------------
+Predicting File: ..\02_results_inpainted_th\water_bottle_3_inpainted_ns.png
+Using Weights: ResNet50_Weights.IMAGENET1K_V1
+Predicted Label: **water bottle**
+Probability: 0.7497
+---------------------------------------------
+

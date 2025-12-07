@@ -9,10 +9,8 @@ This section is about removing opaque obstructions. There are images of objects 
   - \- Obstruction changes the color of the whole image (i.e. microwave makes images dark)
 
 - Median blur: `median_blur()`
-  - \- Somewhat works, albeit not very well
-  - \- Sometimes makes the image very dark
-  - \- Adds grid pattern to image
-
+  - \- Usually does not work. When it does work, it adds a grid to the foreground
+  - \- When it doesn't work, it makes the image very dark
 
 ### Inpainting
 #### Masking techniques
@@ -34,9 +32,6 @@ This section is about removing opaque obstructions. There are images of objects 
   - \- Does not work. This is because you need to address an explicit estimated area (rectangle) where the selected object/obstruction is located. Because we want to select a foreground obstruction (mesh), and it is on the whole image, it has a difficult time selecting it.
 
 #### Inpainting techniques
-All post-processed inpainting techniques could be blurred using Gaussian blur to reduce or remove the artifacts, but it would make the image blurrier. 
-Tuning the masks by adjusting thresholds and dilations per-image could also be effective in removing artifacts.
-
 - Fast marching method `inpaint_fast_marching_method()`
   - Blurrier image
   - \+ Artifacts are less obvious
@@ -48,9 +43,25 @@ Tuning the masks by adjusting thresholds and dilations per-image could also be e
 - [UNIMPLEMENTED] Region Filling: `inpaint_region_filling()`
   - \- GitHub library. Does not work on whole images. Also takes a long time to run per image.
 
+#### Improving inpainting techniques
+To reduce or remove the artifacts on the post-processed inpainting techniques, they could be blurred using Gaussian blur or median blur, but it would make the image blurrier.
+- Median blur is decently effective in removing artifacts
+
+Tuning the masks by adjusting thresholds and dilations per-image could also be effective in removing artifacts.
+
+Increasing the dilation size is able to effectively artifacts. However, it reduces the image quality because more parts of the image is inpainted over.
+
+- All methods to reduce artifacts have the side effect of making the image more blurrier.
+
+
 
 ## How to run
-`python ./src/inpainting.py` reads all photos from `00_photos_original` and the processed images are stored in [Folder structure](#folder-structure). 
+`python ./src/process_images.py` reads all photos from `00_photos_original` and processes the images, which are promptly stored in [Folder structure](#folder-structure). 
+
+## Image Classifier
+`python ./src/classifier.py` classifies all the images from the directories `01_photos_scaled` and `02_results_*` and 
+outputs results to `classifier_output.txt`
+
 
 ## Folder structure
 - `00_photos_original`: Original photos to be processed
@@ -64,5 +75,6 @@ Tuning the masks by adjusting thresholds and dilations per-image could also be e
 
 - `02_results_blurred_gs`: Contains results using gaussian blurring
 - `02_results_blurred_med`: Contains results using median blurring
-- `02_results_inpainted_fmm`: Contains results using fast marching method. `*_gs` is gaussian, `*_ad` is adaptive.
-- `02_results_inpainted_ns`: Contains results using navier strokes. Uses adaptive thresholding. `*_gs` is gaussian, `*_ad` is adaptive.
+- `02_results_inpainted_ad`: Contains results using adaptive thresholding. `*_fmm` is fast marching method, `*_ns` is navier-strokes.
+- `02_results_inpainted_th`: Contains results using simple thresholding. Uses adaptive thresholding. `*_fmm` is fast marching method, `*_ns` is navier-strokes.
+
