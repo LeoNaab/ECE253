@@ -1,4 +1,5 @@
 glare_distortion/*/*.png
-glare_distortion/*/*.jpg
+# glare_distortion/*/*.jpg
 glare_distortion/*/*.MOV
 glare_distortion/*/*.mp4
+leftover_images/
