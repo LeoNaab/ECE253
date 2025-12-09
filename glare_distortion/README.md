@@ -56,6 +56,6 @@ $ cd ..
   * Run all. 
 
 # Citations:
-[1]: https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html 
-[2]: Tran, D. T. (2019). Glare Reduction [Computer software]. https://github.com/ducthotran2010/glare-reduction
+[1]: OpenCV. https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html   
+[2]: Tran, D. T. (2019). Glare Reduction [Computer software]. https://github.com/ducthotran2010/glare-reduction  
 [3]: Chen et al. (2022). Deep Trident Decomposition Network for Single License Plate Image Glare Removal. https://github.com/bigmms/chen_tits21
