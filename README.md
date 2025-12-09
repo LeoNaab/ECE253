@@ -1,4 +1,10 @@
-# Glare Distortion Removal/Reduction Algorithms
+# Obstruction Destruction by Byron Chan, Leo Naab, Allen Keng 
+
+## Reflection Obstruction Algorithms:
+
+## Opaque Obstruction Algorithms:
+
+## Glare Distortion Removal/Reduction Algorithms
 Here are 3 techniques we explored and tested on glare distorted images. 
 * To try your own images, add your images to the [`glare_distortion/glare_images`](./glare_distortion/glare_images/) directory.
 * Ensure that they are in named in the format of `glare{number}{label}.jpg`
