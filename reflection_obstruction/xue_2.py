@@ -36,10 +36,11 @@ def simple_avg(frames):
         stacked_frame = np.add(stacked_frame, frames[i])
 
     stacked_frame = (stacked_frame / len(frames)).astype(uint8)
-    pil_img = Image.fromarray(stacked_frame)
-    pil_img.show()
-    pil_img = Image.fromarray(frames[0])
-    pil_img.show()
+    return stacked_frame
+    # pil_img = Image.fromarray(stacked_frame)
+    # pil_img.show()
+    # pil_img = Image.fromarray(frames[0])
+    # pil_img.show()
 
 
 def min_images(frames, canny_frames, ref_index=len(frames) // 2):
@@ -49,10 +50,12 @@ def min_images(frames, canny_frames, ref_index=len(frames) // 2):
         shifted = shift(frames[i], (motion_y, motion_x, 0))
         min_frame = np.minimum(min_frame, shifted)
 
-    pil_img = Image.fromarray(frames[ref_index])
-    pil_img.show()
-    pil_img = Image.fromarray(min_frame)
-    pil_img.show()
+    # pil_img = Image.fromarray(frames[ref_index])
+    # pil_img.show()
+    # pil_img = Image.fromarray(min_frame)
+    # pil_img.show()
+    #
+    return min_frame
 
 
 # Stacking images:
@@ -74,39 +77,42 @@ def stack_images(frames, canny_frames=None, ref_index=3):
     pil_img.show()
 
 
-# stack_images(frames, canny_frames)
-min_images(frames, canny_frames)
-# simple_avg(frames)
-
-pil_img = Image.fromarray(canny_frames[3])
-pil_img.show()
+def blur_image(frame):
+    processed_image = gaussian_filter(frame, 3, radius=2)
+    return processed_image
 
 
-# pil_img = Image.fromarray(shifted)
-# pil_img.show()
+if __name__ == "__main__":
+    # stack_images(frames, canny_frames)
+    min_images(frames, canny_frames)
+    # simple_avg(frames)
 
-# new_min_frame = np.zeros((frames[0].shape[0], frames[0].shape[1], 3),dtype=uint8) + 255
-# for i in range(0, len(frames), 1):
-#     # motion_y, motion_x = get_shift(canny_frames[3], canny_frames[i])
-#     motion_y, motion_x = get_shift(np.subtract(frames[3], min_frame), frames[i])
+    pil_img = Image.fromarray(canny_frames[3])
+    pil_img.show()
 
-#     shifted = shift(frames[i], (motion_y, motion_x, 0))
+    # pil_img = Image.fromarray(shifted)
+    # pil_img.show()
 
-#     min_frame = np.minimum(new_min_frame, shifted)
-# stacked_frame = np.add(min_frame, shifted)
-# change shifted to float32:
-# shifted.
+    # new_min_frame = np.zeros((frames[0].shape[0], frames[0].shape[1], 3),dtype=uint8) + 255
+    # for i in range(0, len(frames), 1):
+    #     # motion_y, motion_x = get_shift(canny_frames[3], canny_frames[i])
+    #     motion_y, motion_x = get_shift(np.subtract(frames[3], min_frame), frames[i])
 
+    #     shifted = shift(frames[i], (motion_y, motion_x, 0))
 
-# pil_img = Image.fromarray(shifted)
-# pil_img.show()
+    #     min_frame = np.minimum(new_min_frame, shifted)
+    # stacked_frame = np.add(min_frame, shifted)
+    # change shifted to float32:
+    # shifted.
 
+    # pil_img = Image.fromarray(shifted)
+    # pil_img.show()
 
-# stacked_frame = (stacked_frame/len(frames)).astype(uint8)
-# pil_img = Image.fromarray(stacked_frame)
-# pil_img.show()
-# #
-# pil_img = Image.fromarray(frames[0])
-# pil_img.show()
-# pil_img = Image.fromarray(min_frame)
-# pil_img.show()
+    # stacked_frame = (stacked_frame/len(frames)).astype(uint8)
+    # pil_img = Image.fromarray(stacked_frame)
+    # pil_img.show()
+    # #
+    # pil_img = Image.fromarray(frames[0])
+    # pil_img.show()
+    # pil_img = Image.fromarray(min_frame)
+    # pil_img.show()

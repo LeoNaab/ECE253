@@ -1,15 +1,17 @@
-import torch
-from torchvision.models import resnet50, ResNet50_Weights
-import cv2
-from torchvision.transforms import transforms
-from PIL import Image
 import os
+
+import cv2
+import torch
+from PIL import Image
+from torchvision.models import ResNet50_Weights, resnet50
+from torchvision.transforms import transforms
 
 weights = ResNet50_Weights.IMAGENET1K_V1
 model = resnet50(weights=weights)
 model.eval()
 
 preprocess = weights.transforms()
+
 
 def image_loader(image_name):
     if not os.path.exists(image_name):
@@ -19,13 +21,22 @@ def image_loader(image_name):
     image = Image.open(image_name).convert("RGB")
     return image
 
-image_file =  "image_results/pre_vulture.png"#"outputs/bananaModified.png"#
+
+image_file = "image_results/pre_vulture.png"  # "outputs/bananaModified.png"#
 image = image_loader(image_file)
 
 
 input_tensor = preprocess(image)
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+if torch.mps.is_available():
+    print("Using MPS")
+    device = torch.device("mps")
+    # device = torch.device("cpu")
+else:
+    device = torch.device("cpu")
+    print("Using cpu")
+
+
 input_batch = input_tensor.unsqueeze(0).to(device)
 model.to(device)
 
